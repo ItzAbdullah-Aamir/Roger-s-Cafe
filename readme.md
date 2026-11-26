@@ -39,9 +39,9 @@ https://github.com/user-attachments/assets/457f4820-c711-4900-bf82-d94c84923bc5
 
   U CAN RUN IT BY CLICKING ON THE PLAY BUTTON AND ALSO CUSTOMIZE IT IF U WANT TO.
 
-### 2.RUN LOCALLY ON YOUR COMPUTER:
+### 2. RUN LOCALLY ON YOUR COMPUTER:
   - For this python-3 should be installed on ur platform
-  - U can download or clone my repository (git clone https://github.com)
+  - U can download or clone my repository ([git clone https://github.com](https://github.com/ItzAbdullah-Aamir/Roger-s-Cafe))
   - Open the project folder in a terminal or VS Code and run (python Rogers_cafe.py) to start
     taking orders
   
