@@ -1,5 +1,15 @@
 # Roger's Cafe (The best cafe in the world):
-----------------------------------------------
+
+## What is Roger's Cafe:
+ROGER'S CAFE is a python command-line billing and ordering system built for a fictional cafe.
+It can be used at a small cafe, coffee shop, or food stall counter to take customer orders,
+apply discount codes, print itemized reciepts, and keep a daily sales record in sales.txt.
+
+## What I made it with:
+PYTHON-3:I used dictionaries, nested dictionaries, loops like WHILE and FOR loops, and file handling
+with open()
+I made the program in VS Code and git/github for publishing.
+
 ## Features:
 1. First it will display Menu of the Cafe
 2. You can order multiple items and multiple of that certain item
