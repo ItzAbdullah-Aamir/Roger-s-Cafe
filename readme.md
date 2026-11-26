@@ -24,6 +24,12 @@ I made the program in VS Code and git/github for publishing.
 
 https://github.com/user-attachments/assets/457f4820-c711-4900-bf82-d94c84923bc5
 
+IF U WANT TO RUN THE CODE YOURSELF YOU CAN CLICK THE LINK BELOW(i also provided it in demo link with my project in phantom):
+
+https://colab.research.google.com/drive/1Q6Ck539r_zWeMbsq8mM6I7UlRlMTR86a?usp=sharing
+
+U CAN RUN IT BY CLICKING ON THE PLAY BUTTON AND ALSO CUSTOMIZE IT IF U WANT TO.
+
 
 
 
