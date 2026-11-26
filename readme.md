@@ -30,6 +30,11 @@ https://colab.research.google.com/drive/1Q6Ck539r_zWeMbsq8mM6I7UlRlMTR86a?usp=sh
 
 U CAN RUN IT BY CLICKING ON THE PLAY BUTTON AND ALSO CUSTOMIZE IT IF U WANT TO.
 
+## How to Contribute:
+1. You can **fork the repository** on GitHub to make your own copy
+2. **Add your changes or new features** for example (Adding new menu items, new promo codes, tax calculation, or input error handling)
+3. **Open a Pull Request** so I can review and merge ur updates
+
 
 
 
